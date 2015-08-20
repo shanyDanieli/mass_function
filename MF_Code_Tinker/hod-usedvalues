@@ -1,0 +1,13 @@
+GAMMA                              0.2
+OMEGA_M                            0.27
+SIGMA_8                            0.82
+RHO_CRIT                           2.775e+11
+SPECTRAL_INDX                      0.95
+HUBBLE                             0.7
+OMEGA_B                            0.042
+DELTA_CRIT                         1.686
+ITRANS                             5
+TF_file                            transfunc.WMAP3
+DELTA_HALO                         360
+REDSHIFT                           0
+root_filename                      tinker_15_bins
